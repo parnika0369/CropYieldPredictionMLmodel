@@ -1,0 +1,1 @@
+This repository contains a machine learning model designed to predict crop yield using historical agricultural data. The project leverages data preprocessing, feature engineering, and regression-based algorithms to estimate crop production with improved accuracy.
